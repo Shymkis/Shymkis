@@ -4,8 +4,7 @@ My name is Joe Shymanski, and I'm currently a Ph.D. student at the University of
 
 ## Languages and Tools
 
-<img height="50" src="icons/Python.png" alt="Python">
-<img height="50" src="icons/PyTorch.png" alt="PyTorch">
+<img height="50" src="icons/Python.png" alt="Python"><img height="50" src="icons/PyTorch.png" alt="PyTorch">
 <img height="50" src="icons/TensorFlow.png" alt="TensorFlow">
 <img height="50" src="icons/R.png" alt="R">
 <img height="50" src="icons/JavaScript.png" alt="JavaScript">
