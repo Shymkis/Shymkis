@@ -18,6 +18,7 @@ My name is Joe Shymanski, and I'm currently a Ph.D. student at the University of
 <a href="https://www.linkedin.com/in/joe-shymanski/"><img height="50" src="icons/LinkedIn.png" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?user=hCS0IxQAAAAJ"><img height="50" src="icons/Google Scholar.png" alt="Google Scholar"></a>
 <a href="https://orcid.org/0009-0007-7955-192X"><img height="50" src="icons/Orcid.png" alt="Orcid"></a>
+<a href="https://www.kaggle.com/joeshymanski"><img height="50" src="icons/Kaggle.png" alt="Kaggle"></a>
 
 Here's a bit more about what I'm up to:
 
