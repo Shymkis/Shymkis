@@ -4,14 +4,15 @@ My name is Joe Shymanski, and I'm currently a Ph.D. student at the University of
 
 ## Languages and Tools
 
-<img height="50" src="icons/Python.png" alt="Python"><img height="50" src="icons/PyTorch.png" alt="PyTorch">
-<img height="50" src="icons/TensorFlow.png" alt="TensorFlow">
-<img height="50" src="icons/R.png" alt="R">
-<img height="50" src="icons/JavaScript.png" alt="JavaScript">
-<img height="50" src="icons/Java.png" alt="Java">
-<img height="50" src="icons/Mathematica.png" alt="Mathematica">
-<img height="50" src="icons/Matlab.png" alt="Matlab">
-<img height="50" src="icons/C++.png" alt="C++">
+<a href="#"><img height="50" src="icons/Python.png" alt="Python"></a>
+<a href="#"><img height="50" src="icons/PyTorch.png" alt="PyTorch"></a>
+<a href="#"><img height="50" src="icons/TensorFlow.png" alt="TensorFlow"></a>
+<a href="#"><img height="50" src="icons/R.png" alt="R"></a>
+<a href="#"><img height="50" src="icons/JavaScript.png" alt="JavaScript"></a>
+<a href="#"><img height="50" src="icons/Java.png" alt="Java"></a>
+<a href="#"><img height="50" src="icons/Mathematica.png" alt="Mathematica"></a>
+<a href="#"><img height="50" src="icons/Matlab.png" alt="Matlab"></a>
+<a href="#"><img height="50" src="icons/C++.png" alt="C++"></a>
 
 ## Profiles
 
